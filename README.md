@@ -18,6 +18,11 @@ This project was built to practice:
 
 HTML structure for design layout
 
+screenshot
+
+![Uploading image.png…]()
+
+
 CSS position property (relative, absolute, etc.)
 
 Basic styling and color theory
