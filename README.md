@@ -20,7 +20,8 @@ HTML structure for design layout
 
 screenshot
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/54a4db27-c38f-4f44-9d53-bb479ac64bb9)
+
 
 
 CSS position property (relative, absolute, etc.)
